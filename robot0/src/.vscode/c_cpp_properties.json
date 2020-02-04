@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/sjinglong/MultiRobo_ws/robot0/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/sjinglong/MultiRobo_ws/robot0/src/roborts_common/include/**",
+                "/home/sjinglong/MultiRobo_ws/robot0/src/roborts_costmap/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
